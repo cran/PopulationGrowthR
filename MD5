@@ -1,0 +1,17 @@
+767780333f80c6f46a8b9cd7189930a3 *DESCRIPTION
+28296223664e80402a01a13b59642965 *NAMESPACE
+edc824c5a612b6b6af58db369a673c1d *R/data.R
+f8cba59fbd85d7d7194d64d570470980 *R/freqplot.R
+92131a13b29ea823d640b72e64f08866 *R/lagfit.R
+a6ba060844483f5a9f3c5655af9cc99f *R/plot.R
+79b5f0540aec6776bf7ac5e1bcb53647 *R/raw2freqdata.R
+d7f079653056f2061a3569dfb4aa3af7 *data/fdata.rda
+767d1febb8caeb17db3fc9c847a27d93 *data/rawdata.rda
+3d87413060cc805f74e61e35917eced2 *data/yeardata.rda
+3c1fe933ce6d6442cfe1e652a1d59674 *man/fdata.Rd
+b144c286a28f1edb3beccfd757807b6c *man/freqplot.Rd
+31fa2049e9125c2afb8aa20acdc7291c *man/growthplot.Rd
+84171869b0e5187f5891f694430d7a4e *man/lagfit.Rd
+d8ace574ab647d02abd1899e256fde56 *man/raw2freqdata.Rd
+8f36f12d76e032d4c4efe01a0202a4f2 *man/rawdata.Rd
+248a50652d3268bbef85696e18fdfca3 *man/yeardata.Rd
